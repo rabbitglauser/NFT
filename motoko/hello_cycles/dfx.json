@@ -3,6 +3,10 @@
     "hello_cycles": {
       "main": "src/hello_cycles/main.mo",
       "type": "motoko"
+    },
+    "dip721_nft_container": {
+      "main": "src/dip721_nft_container/main.mo",
+      "type": "motoko"
     }
   },
   "defaults": {
